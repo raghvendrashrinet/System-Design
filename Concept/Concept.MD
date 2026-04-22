@@ -1,4 +1,4 @@
-Pillars of System Design
+## Pillars of System Design
 
 
 | Pillar          | Focus Area                          |
@@ -51,7 +51,7 @@ Pillars of System Design
                           └───────────────────────────┘
 
 
-🏛️ Explanation
+🏛️## Explanation
    - Base Layer (Maintainability) → Without maintainability, systems become brittle and hard to evolve.
    - Performance & Scalability → Ensure the system can handle load efficiently and grow with demand.
    - Reliability & Availability → Keep the system functioning correctly and accessible even under failures.
